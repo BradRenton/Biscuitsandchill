@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Biscuitsandchill
+- 👋 Hi, I’m @BradRenton
 - 👀 I’m interested in Engineering, Automation, MMORPG's, Youtube Analytics
 - 🌱 I’m currently learning Bsc(hons) Computer Science & Business
 - 💞️ I’m looking to collaborate on open source projects and group learning 
